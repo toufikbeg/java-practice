@@ -1,8 +1,6 @@
 # JALA Java Assignments - 133 questions + Collections sub-tasks
 
-> Ye JALA ka material hai. Apne revision ke liye use karo, unko submit NAHI karna.
 
-> Priority order neeche likha hai. Repo: github.com/toufikbeg/java-practice
 
 
 ## ________________________________________________
